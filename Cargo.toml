@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 discord-rich-presence = "0.2.3"
+iced = "0.12.1"
+iced_aw = "0.8.0"
